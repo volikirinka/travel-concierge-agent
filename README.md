@@ -29,3 +29,5 @@ Google Agent Development Kit (ADK) · Gemini 2.5 Flash Lite · Google Search
 
 ## Full Writeup
 See the complete project writeup with architecture details and development journey on Kaggle.
+## Kaggle Notebook
+View and run the full notebook here: [Travel Concierge Agent on Kaggle](https://www.kaggle.com/code/irynavolik/travel-concierge-agent)
